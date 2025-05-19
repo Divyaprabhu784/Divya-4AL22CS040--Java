@@ -20,4 +20,6 @@
 
 [Linkedlist_example5-outputlink](https://github.com/Divyaprabhu784/Divya-java/blob/main/Linkedlist_example5.png)
 
-[IsnullorEmpty-output](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/isNullorEmpty_output.png)
+[String_demo-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/StringDemo_output.png)
+
+[IsnullorEmpty-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/isNullorEmpty_output.png)
