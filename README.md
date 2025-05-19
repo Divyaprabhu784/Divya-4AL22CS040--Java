@@ -28,21 +28,21 @@
 
 [IsnullorEmpty-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/isNullorEmpty_output.png)
 
-[countoccurence-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/countwords_output.png)
+[countoccurence-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/countoccurance_output.png)
 
-[reverseString-outputlink]()
+[reverseString-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/reverseStringoutput.png)
 
-[isPalindrome-outputlink]()
+[isPalindrome-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/Ispalindrome_output.png)
 
-[RemoveWhitespace-outputlink]()
+[RemoveWhitespace-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/removewhitespace_output.png)
 
-[Capitalize-outputlink]()
+[Capitalize-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/capitalize_after_space_output.png)
 
-[truncate-outputlink]()
+[truncate-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/truncate_output.png)
 
-[isNumeric-outputlink]()
+[isNumeric-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/isNumeric_output.png)
 
-[generateRandomString-outputlink]()
+[generateRandomString-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/Generate-randomstring_output.png)
 
-[Countwords-outputlink]()
+[Countwords-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/countwords_output.png)
 
