@@ -24,4 +24,7 @@
 
 [Stringbuffer vs stringbuilder-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/StringBufferv%20vs%20StringBuilder.png)
 
+[Stringhandling-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/StringHandlingoutput.java.png)
+
 [IsnullorEmpty-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/isNullorEmpty_output.png)
+
