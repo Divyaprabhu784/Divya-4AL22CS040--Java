@@ -30,3 +30,19 @@
 
 [countoccurence-outputlink](https://github.com/Divyaprabhu784/Divya-4AL22CS040--Java/blob/main/Strings.java/countwords_output.png)
 
+[reverseString-outputlink]()
+
+[isPalindrome-outputlink]()
+
+[RemoveWhitespace-outputlink]()
+
+[Capitalize-outputlink]()
+
+[truncate-outputlink]()
+
+[isNumeric-outputlink]()
+
+[generateRandomString-outputlink]()
+
+[Countwords-outputlink]()
+
