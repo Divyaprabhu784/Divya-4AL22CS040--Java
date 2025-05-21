@@ -13,7 +13,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Lab1 {
+public class Arraylist_linkedlist {
 	 public static void main(String[] args) {
 		        List<String> arrayList = new ArrayList<>();
 		        List<String> linkedList = new LinkedList<>();
