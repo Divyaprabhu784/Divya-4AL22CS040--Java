@@ -5,9 +5,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-public class lab4b {
+public class CountryButtonPress {
 	JLabel l1;
-	lab4b(){
+	CountryButtonPress(){
 	JFrame f=new JFrame("Button Example");
 	l1=new JLabel();
 	l1.setBounds(50,50, 700,100);
@@ -36,7 +36,7 @@ public class lab4b {
 	f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 	public static void main(String[] args) {
-	new lab4b();
+	new CountryButtonPress();
 	}
 
 }
