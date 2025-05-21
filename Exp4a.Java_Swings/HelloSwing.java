@@ -1,10 +1,11 @@
+
 package adjlab345;
 
 import javax.swing.*; // For JFrame, JLabel, SwingUtilities
 import java.awt.*;    // For Font, Color
 
-public class lab4a {
-    lab4a() {
+public class HelloSwing {
+    HelloSwing() {
         // Create a new JFrame container
         JFrame jfrm = new JFrame("A Simple Swing Application");
 
@@ -33,7 +34,7 @@ public class lab4a {
         // Create the frame on the event dispatching thread
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
-                new lab4a(); // Corrected the class name
+                new HelloSwing(); // Corrected the class name
             }
         });
     }
