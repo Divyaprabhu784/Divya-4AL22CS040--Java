@@ -1,5 +1,7 @@
-package adjlab;
+/*1. Write a java program for getting different colors through ArrayList interface and search whether
+the color "Red" is available or not*/
 
+package adjlab;
 import java.util.ArrayList;
 import java.util.List;
 
