@@ -1,3 +1,6 @@
+/*5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
+display them on console whenever the countries are selected on the list.*/
 package adjlab345;
 import java.util.List;
 import javax.swing.DefaultListModel;
@@ -6,10 +9,10 @@ import javax.swing.JList;
 import javax.swing.JScrollPane;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
-public class lab5a extends JFrame {
+public class SelectCountry extends JFrame {
 private JList<String> countryList;
 
-public lab5a() {
+public SelectCountry() {
 	DefaultListModel<String> listModel = new DefaultListModel<>();
 	listModel.addElement("USA");
 	listModel.addElement("India");
@@ -43,7 +46,7 @@ public lab5a() {
 
 	}
 	public static void main(String[] args) {
-	new lab5a();
+	new SelectCountry();
 
 }
 }
