@@ -1,10 +1,12 @@
+/*5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
+display the concerned color whenever the specific tab is selected in the Pan.*/
 package adjlab345;
 import java.awt.Color;
 import javax.swing.*;
 
-public class lab5b {
+public class TabbedColors {
 	JFrame f;
-	lab5b(){
+	TabbedColors(){
 	f=new JFrame();
 	JPanel p1=new JPanel();
 	JPanel p2=new JPanel();
@@ -24,7 +26,7 @@ public class lab5b {
 	f.setVisible(true);
 	}
 	public static void main(String[] args) {
-	new lab5b();
+	new TabbedColors();
 
 }
 }
